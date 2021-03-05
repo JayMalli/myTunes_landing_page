@@ -192,6 +192,9 @@ nav {
   border-bottom: 2px solid #ccc;
 }
 @media (max-width: 768px) {
+  nav {
+    height: 13%;
+  }
   .nav-links {
     justify-content: flex-start;
     margin-top: 2.2rem;
