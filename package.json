@@ -1,0 +1,16 @@
+{
+  "name": "mytunes_landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hompage":"https://JayMalli.github.io/myTunes_landing_page",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
