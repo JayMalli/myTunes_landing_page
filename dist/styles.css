@@ -231,8 +231,8 @@ nav {
   }
 
   .nav-links.open {
-    clip-path: circle(500px at 90% -10%);
-    -webkit-clip-path: circle(500px at 90% -10%);
+    clip-path: circle(400px at 90% -10%);
+    -webkit-clip-path: circle(400px at 90% -10%);
   }
 
   .nav-links li {
@@ -287,7 +287,7 @@ nav {
   }
 
   .nav-links li {
-    padding-left: 10%;
+    padding-left: 30%;
   }
 }
 
@@ -315,8 +315,8 @@ nav {
   }
 
   .nav-links.open {
-    clip-path: circle(500px at 140% -17%);
-    -webkit-clip-path: circle(500px at 140% -17%);
+    clip-path: circle(500px at 125% -30%);
+    -webkit-clip-path: circle(500px at 125% -30%);
   }
   .nav-links li {
     padding-left: 7%;
