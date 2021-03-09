@@ -318,8 +318,8 @@ nav {
   }
 
   .nav-links.open {
-    clip-path: circle(550px at 125% -30%);
-    -webkit-clip-path: circle(550px at 125% -30%);
+    clip-path: circle(500px at 125% -30%);
+    -webkit-clip-path: circle(500px at 125% -30%);
   }
   .nav-links li {
     padding-left: 7%;
